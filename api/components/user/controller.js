@@ -21,6 +21,7 @@ module.exports = function (injectedStore) {
     const user = {
       name: body.name,
       username: body.username,
+      age: body.age,
     };
 
     if (body.id) {
