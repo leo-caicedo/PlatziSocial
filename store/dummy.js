@@ -1,8 +1,6 @@
 const db = {
   user: [
     { id: "1", name: "Leonardo", age: "20" },
-    { id: "2", name: "Said", age: "24" },
-    { id: "3", name: "Juana", age: "22" },
   ],
 };
 
